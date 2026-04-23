@@ -172,5 +172,6 @@ https://clinical-note-tool-oql3.vercel.app/
 ## 8. Improvements
 - There were things I wanted to implement but couldn't due to time constraints
 - The UI could have looked more professional and been more consistent throughout application
+- PDF input could have been modified to accept docx types
 - PDF rendering was supposed to be a button with output instead of full display
 - Highlight of edited text also supposed to be implemented
