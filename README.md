@@ -100,7 +100,7 @@ This ensures:
 ## 6. How to Run Locally
 
 ### 1. Clone repository
-```bash
+bash
 git clone https://github.com/your-username/clinical-note-tool.git
 cd clinical-note-tool
 
