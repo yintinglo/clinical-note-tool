@@ -173,4 +173,4 @@ https://clinical-note-tool-oql3.vercel.app/
 - There were things I wanted to implement but couldn't due to time constraints
 - The UI could have looked more professional and been more consistent throughout application
 - PDF rendering was supposed to be a button with output instead of full display
-- Highlight of edited text also an original function
+- Highlight of edited text also supposed to be implemented
